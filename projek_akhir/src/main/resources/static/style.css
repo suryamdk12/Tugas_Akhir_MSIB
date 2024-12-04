@@ -1,0 +1,12 @@
+.container {
+    text-align: center;
+    margin: 50px auto;
+    width: 400px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+form {
+    margin-bottom: 20px;
+}
